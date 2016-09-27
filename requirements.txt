@@ -1,0 +1,5 @@
+# GDAL==2.0.1 WARNING - YOU NEED GDAL, but I had to install manually on my system
+numpy>=1.10,<1.11
+scipy==0.17.0
+scikit-learn==0.17
+# Optionally, you can install matplotlib
